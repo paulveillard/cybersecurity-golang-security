@@ -6,7 +6,7 @@
 
 
 
-![go]()
+![go](https://github.com/paulveillard/cybersecurity-golang-security/blob/main/img/golang.png)
 
 ## Table of Contents
 - [Auth](#auth)
